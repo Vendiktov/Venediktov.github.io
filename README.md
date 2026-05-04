@@ -1,2 +1,2 @@
-# Venediktov.github.io
+# venediktov.github.io
 CV
